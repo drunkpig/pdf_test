@@ -1,0 +1,8 @@
+classfier
+jsonl
+conghui_books.s3.txt enbook-zlib.pdf.s3.txt enbook-zlib.s3.txt enbook-zlib_with_ext.s3.txt jiami_pdf.txt paper_email.s3.txt requirements.txt theye.s3.txt zhongwen_enctypted.txt zhongwenzaixian.s3.txt zlib_error.s3.txt
+conghui_pdf_stat.jsonl enbook-zlib_pdf_stat.jsonl theye_pdf_stat.jsonl zhongwenzaixian_pdf_stat_withmeta.jsonl
+*.txt
+*.jsonl
+__pycache__
+*.log
